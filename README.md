@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Password Generator** is a simple JavaScript library that allows you to generate secure passwords based on customizable settings. It provides flexibility in generating passwords with options for length, character types (lowercase, uppercase, numbers, special characters), and exclusion criteria. By default, the generated password is displayed for 5 seconds and then hidden, and it is also selected by default. The library is released under the CC Zero license and was authored by Sebastian Eiweleit.
+**Password Generator** is a simple JavaScript library that allows you to generate secure passwords based on customizable settings. It provides flexibility in generating passwords with options for length, character types (lowercase, uppercase, numbers, special characters), and exclusion criteria. By default, the generated password is displayed for 5 seconds and then hidden, and it is also selected by default. The library is released under the CC Zero license.
 
 ## Installation
 
@@ -64,7 +64,7 @@ passwordGenerator.generate();
 Password Generator is released under the CC Zero (Creative Commons Zero) license. You are free to use, modify, and distribute this library for any purpose without any restrictions.
 
 ### Author
-Author: Sebastian Eiweleit
+Author: [basteyy](https://github.com/basteyy)
 Email: ey@sebastian.online
 
 ### GitHub Repository
