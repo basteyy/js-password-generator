@@ -5,7 +5,7 @@
  * By default, the new password is shown for 5 seconds and then hidden again. The password is also selected by default.
  *
  * @license CC Zero (http://creativecommons.org/publicdomain/zero/1.0/)
- * @author Sebastian Eiweleit <ey@sebastian.online>
+ * @author basteyy <sebastian@xzit.online>
  *
  * @param {string|object} target The target element
  * @param {object} settings The settings

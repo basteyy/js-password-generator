@@ -65,7 +65,7 @@ Password Generator is released under the CC Zero (Creative Commons Zero) license
 
 ### Author
 Author: [basteyy](https://github.com/basteyy)
-Email: ey@sebastian.online
+Email: sebastian@xzit.online
 
 ### GitHub Repository
 
